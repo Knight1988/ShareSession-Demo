@@ -1,0 +1,4 @@
+C:\Aruba\test2\WebApplication1\CSASPNETShareSessionBetweenSubDomainsModule\bin\Debug\CSASPNETShareSessionBetweenSubDomainsModule.dll
+C:\Aruba\test2\WebApplication1\CSASPNETShareSessionBetweenSubDomainsModule\bin\Debug\CSASPNETShareSessionBetweenSubDomainsModule.pdb
+C:\Aruba\test2\WebApplication1\CSASPNETShareSessionBetweenSubDomainsModule\obj\Debug\CSASPNETShareSessionBetweenSubDomainsModule.dll
+C:\Aruba\test2\WebApplication1\CSASPNETShareSessionBetweenSubDomainsModule\obj\Debug\CSASPNETShareSessionBetweenSubDomainsModule.pdb
