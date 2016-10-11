@@ -1,8 +1,0 @@
-C:\Aruba\test2\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
-C:\Aruba\test2\WebApplication1\WebApplication1\bin\WebApplication1.dll
-C:\Aruba\test2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
-C:\Aruba\test2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
-C:\Aruba\test2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
-C:\Aruba\test2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
-C:\Aruba\test2\WebApplication1\WebApplication1\bin\CSASPNETShareSessionBetweenSubDomainsModule.dll
-C:\Aruba\test2\WebApplication1\WebApplication1\bin\CSASPNETShareSessionBetweenSubDomainsModule.pdb
